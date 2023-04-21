@@ -8,11 +8,11 @@ RUN apk add --no-cache \
   php81-ctype \
   php81-curl \
   php81-dom \
-  php8-exif \
+  php81-exif \
   php81-fileinfo \
   php81-fpm \
   php81-gd \
-  php8-iconv \
+  php81-iconv \
   php81-json \
   php81-mbstring \
   php81-mysqli \
